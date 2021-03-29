@@ -45,7 +45,7 @@
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-12">
                 <p class="contacts-adress">
-                    <span>Адрес:</span> г. Казань, пр-т Ямашева 45А, оф 508, БЦ «Парус»
+                    <span>Адрес:</span> <?php the_field('footer-address'); ?>
                 </p>
             </div>
             <div class="col-xl-4 col-lg-8">
@@ -82,8 +82,7 @@
         <div class="row align-items-center">
             <div class="col-md-4">
                 <a href="#" class="footer-logo">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/img/footer-logo.png" alt="GoldCapital"
-                         class="footer-logo__img img">
+                    <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/footer-logo.png" alt="GoldCapital" class="footer-logo__img img">
                 </a>
             </div>
             <div class="col-md-8 ">
@@ -103,7 +102,7 @@
                             О проекте
                         </a>
                     </li>
-                    <li class="menu__item">
+                    <li class="menu__item menu__item-contacts">
                         <a href="#contacts" class="menu__link">
                             Контакты
                         </a>
@@ -124,14 +123,6 @@
                         </a>
                     </li>
                 </ul>
-                <div class="footer-notice">
-                    <p class="footer-notice__text">
-                        <a href="https://alpari.forex/data/docs/regulations/risk_disclosure_ru.pdf"
-                           class="footer-notice__link" target="_blank">Уведомление о рисках: </a>
-                        начиная работать на финансовых рынках, убедитесь, что вы осознаете риски, с которыми сопряжена
-                        торговля с использованием кредитного плеча, и что вы имеете достаточный уровень подготовки.
-                    </p>
-                </div>
             </div>
         </div>
     </div>
@@ -139,21 +130,18 @@
 <!-- Modal window -->
 <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
-        <div class="modal-content"
-             style="background-image: url(<?php bloginfo('template_url'); ?>/assets/img/modal-body-bg.jpg)">
+        <div class="modal-content" style="background-image: url(<?php bloginfo( 'template_url' ); ?>/assets/img/modal-body-bg.jpg)">
             <div class="modal-header">
 
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/img/close-btn.png" alt="close">
+                    <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/close-btn.png" alt="close">
                 </button>
             </div>
             <div class="modal-body">
-                <img src="<?php bloginfo('template_url'); ?>/assets/img/modal-icon.png" alt="modal-icon"
-                     class="modal__icon">
+                <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/modal-icon.png" alt="modal-icon" class="modal__icon">
                 <div class="modal__title">Спасибо за Вашу заявку!</div>
                 <div class="modal__text">Менеджер свяжется с Вами в ближайшее время</div>
-                <div class="modal-social__box col-xl-2 col-lg-4"
-                     style="background-image: url(<?php bloginfo('template_url'); ?>/assets/img/model-border.svg)">
+                <div class="modal-social__box col-xl-2 col-lg-4" style="background-image: url(<?php bloginfo( 'template_url' ); ?>/assets/img/model-border.svg)">
                     <ul class="modal-social d-flex">
                         <li class="social__title">
                             Следите за новостями!
@@ -181,8 +169,7 @@
     <ul class="menu-collapse__list d-flex ">
         <a href="#" class="menu-collapse-logo mr-auto">
 
-            <img src="<?php bloginfo('template_url'); ?>/assets/img/menu-collapse-logo.png" alt="GoldCapital"
-                 class="menu-collapse-logo__img img">
+            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/menu-collapse-logo.png" alt="GoldCapital" class="menu-collapse-logo__img img">
 
         </a>
         <li class="menu-collapse__item">
@@ -205,7 +192,7 @@
                 Отзывы
             </a>
         </li>
-        <li class="menu-collapse__item">
+        <li class="menu-collapse__item menu__item-contacts">
             <a href="#contacts" class="menu-collapse__link">
                 Контакты
             </a>
@@ -243,7 +230,7 @@
                     </div>
                 </li>
             </div>
-            <a href="https://alpari.forex/ru/registration/?cpa_partner_id=12555567" target="_blank"
+            <a href="https://alpari.finance/ru/registration/?cpa_partner_id=12555567" target="_blank"
                rel="nofollow noopener noreferrer" class="nav-btn menu-collapse-btn btn ">
                 Регистрация
             </a>

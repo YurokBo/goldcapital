@@ -2210,6 +2210,13 @@ a.jackpot__more_link:active {
     overflow: hidden;
 }
 
+.contacts,
+.menu__item-contacts,
+.networks__item_telegram,
+.networks__item_inst {
+    display: none;
+}
+
 /* Media Queries */
 
 /* 992 - 1200 px */

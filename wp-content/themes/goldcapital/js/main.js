@@ -1,4 +1,4 @@
-
+"use strict";
 /*-------this is a function which change blocks place-------*/
 (function () {
     let originalPositions = [];
@@ -143,6 +143,15 @@
     }
 
 }());
+
+// preloader
+window.onload = function () {
+    document.body.classList.add('loaded_hiding');
+    window.setTimeout(function () {
+        document.body.classList.add('loaded');
+        document.body.classList.remove('loaded_hiding');
+    }, 500);
+};
 
 
 $(function () {
@@ -289,10 +298,12 @@ $(function () {
             url: "mail.php", //Change
             data: th.serialize()
         }).done(function () {
+
             $('body').addClass('modal-open');
             setTimeout(function () {
                 // Done Functions
                 th.trigger("reset");
+
             }, 1000);
         });
         return false;
@@ -304,7 +315,7 @@ $(function () {
             var1 = $('#id_field1').val();
             var2 = $('#id_field2').val();
             if ((var1 === "") || (var2 === "")) {
-                return
+                return;
             } else {
                 $('#modal').modal('show');
             }
@@ -316,7 +327,7 @@ $(function () {
             var3 = $('#id_field3').val();
             var4 = $('#id_field4').val();
             if ((var3 === "") || (var4 === "")) {
-                return
+                return;
             } else {
                 $('#modal').modal('show');
             }
@@ -393,12 +404,12 @@ document.addEventListener('click', e => {
 
 function changeReview(e) {
 
-    const  reviewsItems = document.querySelectorAll('.reviews-slider__item .reviews-slider__img'),
-    textBlocks = document.querySelectorAll('.reviews-slider__text-block');
+    const reviewsItems = document.querySelectorAll('.reviews-slider__item .reviews-slider__img'),
+        textBlocks = document.querySelectorAll('.reviews-slider__text-block');
 
     const itemsTargetNum = [...reviewsItems].indexOf(e.target);
 
-    if(itemsTargetNum === -1) {
+    if (itemsTargetNum === -1) {
         return;
     }
 
@@ -409,3 +420,115 @@ function changeReview(e) {
     textBlocks[itemsTargetNum].classList.add('reviews-slider__text_active');
 
 }
+
+// snow
+// particlesJS("particles-js", {
+//     "particles": {
+//         "number": {
+//             "value": 400,
+//             "density": {
+//                 "enable": true,
+//                 "value_area": 800
+//             }
+//         },
+//         "color": {
+//             "value": "#ffffff"
+//         },
+//         "shape": {
+//             "type": "image",
+//             "stroke": {
+//                 "width": 3,
+//                 "color": "#fff"
+//             },
+//             "polygon": {
+//                 "nb_sides": 5
+//             },
+//             "image": {
+//                 "src": "wp-content/themes/goldcapital-back/assets/img/snowflake3.png)",
+//                 "width": 100,
+//                 "height": 100
+//             }
+//         },
+//         "opacity": {
+//             "value": 0.7,
+//             "random": false,
+//             "anim": {
+//                 "enable": false,
+//                 "speed": 1,
+//                 "opacity_min": 0.1,
+//                 "sync": false
+//             }
+//         },
+//         "size": {
+//             "value": 3,
+//             "random": true,
+//             "anim": {
+//                 "enable": false,
+//                 "speed": 20,
+//                 "size_min": 0.1,
+//                 "sync": false
+//             }
+//         },
+//         "line_linked": {
+//             "enable": false,
+//             "distance": 50,
+//             "color": "#ffffff",
+//             "opacity": 0.6,
+//             "width": 1
+//         },
+//         "move": {
+//             "enable": true,
+//             "speed": 3,
+//             "direction": "bottom",
+//             "random": true,
+//             "straight": false,
+//             "out_mode": "out",
+//             "bounce": false,
+//             "attract": {
+//                 "enable": true,
+//                 "rotateX": 300,
+//                 "rotateY": 1200
+//             }
+//         }
+//     },
+//     "interactivity": {
+//         "detect_on": "canvas",
+//         "events": {
+//             "onhover": {
+//                 "enable": false,
+//                 "mode":  "bubble"
+//             },
+//             "onclick": {
+//                 "enable": true,
+//                 "mode": "repulse"
+//             },
+//             "resize": true
+//         },
+//         "modes": {
+//             "grab": {
+//                 "distance": 150,
+//                 "line_linked": {
+//                     "opacity": 1
+//                 }
+//             },
+//             "bubble": {
+//                 "distance": 200,
+//                 "size": 40,
+//                 "duration": 2,
+//                 "opacity": 8,
+//                 "speed": 3
+//             },
+//             "repulse": {
+//                 "distance": 200,
+//                 "duration": 0.2
+//             },
+//             "push": {
+//                 "particles_nb": 4
+//             },
+//             "remove": {
+//                 "particles_nb": 2
+//             }
+//         }
+//     },
+//     "retina_detect": true
+// });

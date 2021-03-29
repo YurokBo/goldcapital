@@ -73,7 +73,7 @@
                                 Отзывы
                             </a>
                         </li>
-                        <li class="menu__item">
+                        <li class="menu__item menu__item-contacts">
                             <a href="#contacts" class="menu__link">
                                 Контакты
                             </a>
@@ -81,7 +81,8 @@
                     </ul>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-6 d-flex justify-content-end align-items-center">
-                    <a href="https://alpari.forex/ru/registration/?cpa_partner_id=12555567" target="_blank"
+                    <a href="https://alpari.finance/ru/registration/?cpa_partner_id=12555567"
+                       target="_blank"
                        rel="nofollow noopener noreferrer" class="nav-btn btn ">
                         Регистрация
                     </a>
@@ -121,7 +122,7 @@
                     </a>
                 </div>
             </li>
-            <li class="networks__item">
+            <li class="networks__item networks__item_inst">
                 <a href="https://instagram.com/goldcapital_official" target="_blank" class="networks__link"
                    rel="nofollow noopener noreferrer">
                     <i class="fab fa-instagram"></i>
@@ -154,7 +155,6 @@
                             <div class="offer-slider__info">
                                 <h1 class="offer-slider__title">
                                     <?php the_field('offer-slider__title-2'); ?>
-
                                 </h1>
                                 <p class="offer-slider__text">
                                     <?php the_field('offer-slider__text-2'); ?>
