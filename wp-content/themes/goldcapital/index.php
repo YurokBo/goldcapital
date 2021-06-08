@@ -278,7 +278,7 @@
                 <div class="director">
                     <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/director.jpg" alt="director" class="director__img img">
                     <p class="director__text">
-                        Закиров Эмиль Вадимович
+                        Эмиль Вадимович
                         <span>Директор «Gold Capital»</span>
                     </p>
                 </div>
