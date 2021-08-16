@@ -21,7 +21,8 @@
     <div class="container-fluid p-0">
         <div class="row no-gutters">
             <div class="col-lg-5">
-                <div class="jackpot-picture" style="background-image: url(<?php bloginfo( 'template_url' ); ?>/assets/img/jackpot.jpg)">
+                <div class="jackpot-picture"
+                     style="background-image: url(<?php bloginfo('template_url'); ?>/assets/img/jackpot.jpg)">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -62,8 +63,9 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-5" >
-                <div class="analysis-picture" style="background-image: url(<?php bloginfo( 'template_url' ); ?>/assets/img/analysis.jpg)">
+            <div class="col-lg-5">
+                <div class="analysis-picture"
+                     style="background-image: url(<?php bloginfo('template_url'); ?>/assets/img/analysis.jpg)">
 
                 </div>
             </div>
@@ -72,7 +74,8 @@
     <div class="container-fluid p-0">
         <div class="row no-gutters">
             <div class="col-lg-5">
-                <div class="deposit-picture" style="background-image: url(<?php bloginfo( 'template_url' ); ?>/assets/img/deposit.jpg)">
+                <div class="deposit-picture"
+                     style="background-image: url(<?php bloginfo('template_url'); ?>/assets/img/deposit.jpg)">
 
                 </div>
             </div>
@@ -92,7 +95,8 @@
     </div>
 </section>
 <!-- services-->
-<section id="services" class="services"  style="background-image: url(<?php bloginfo( 'template_url' ); ?>/assets/img/serices-bg.jpg)">
+<section id="services" class="services"
+         style="background-image: url(<?php bloginfo('template_url'); ?>/assets/img/serices-bg.jpg)">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -127,7 +131,9 @@
                                         <a target="_blank" href="https://alpari.finance/ru/invest/pamm/458733/">
                                             <img style="width: 728px; height: 89px; border: 0;"
                                                  src="https://alpari.finance/ru/invest/pamm/458733/banners/Banner5.svg"></a>
-                                        <a target="_blank" href="https://alpari.finance/ru/invest/pamm/421969/"><img style="width: 728px; height: 89px; border: 0;" src="https://alpari.finance/ru/invest/pamm/421969/banners/Banner5.svg"></a>
+                                        <a target="_blank" href="https://alpari.finance/ru/invest/pamm/421969/"><img
+                                                    style="width: 728px; height: 89px; border: 0;"
+                                                    src="https://alpari.finance/ru/invest/pamm/421969/banners/Banner5.svg"></a>
                                     </div>
                                 </div>
                                 <div class="alpari-widget__mobile">
@@ -135,8 +141,12 @@
                                         <h5 class="alpari-widget__top-title">
                                             Топ Alpari
                                         </h5>
-                                        <a target="_blank" href="https://alpari.finance/ru/invest/pamm/458733/"><img style="width: 250px; height: 250px; border: 0;" src="https://alpari.finance/ru/invest/pamm/458733/banners/Banner3.svg"></a>
-                                        <a target="_blank" href="https://alpari.finance/ru/invest/pamm/421969/"><img style="width: 250px; height: 250px; border: 0;" src="https://alpari.finance/ru/invest/pamm/421969/banners/Banner3.svg"></a>
+                                        <a target="_blank" href="https://alpari.finance/ru/invest/pamm/458733/"><img
+                                                    style="width: 250px; height: 250px; border: 0;"
+                                                    src="https://alpari.finance/ru/invest/pamm/458733/banners/Banner3.svg"></a>
+                                        <a target="_blank" href="https://alpari.finance/ru/invest/pamm/421969/"><img
+                                                    style="width: 250px; height: 250px; border: 0;"
+                                                    src="https://alpari.finance/ru/invest/pamm/421969/banners/Banner3.svg"></a>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +166,8 @@
                                 <?php the_field('accordion-text-2'); ?>
                             </p>
 
-                            <a href="https://alpari.finance/ru/school/" target="_blank" rel="nofollow noopener noreferrer">Бесплатный
+                            <a href="https://alpari.finance/ru/school/" target="_blank"
+                               rel="nofollow noopener noreferrer">Бесплатный
                                 курс трейдинга <span>по ссылке</span></a>
                         </div>
                     </li>
@@ -188,7 +199,7 @@
                         </div>
                         <div class="services-list__block">
                             <p>
-                                  <?php the_field('accordion-text-4'); ?>
+                                <?php the_field('accordion-text-4'); ?>
                             </p>
 
                         </div>
@@ -233,7 +244,7 @@
                 <ul class="creation-list d-flex">
                     <li class="creation-list__item">
                         <div class="creation-list__logo">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/bill.png" alt="bill">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/bill.png" alt="bill">
                         </div>
                         <p class="creation-list__text">
                             Бесплатное открытие и обслуживания депозита в USD, EUR, RUB
@@ -241,7 +252,7 @@
                     </li>
                     <li class="creation-list__item">
                         <div class="creation-list__logo">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/money.png" alt="money">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/money.png" alt="money">
                         </div>
                         <p class="creation-list__text">
                             Отсутствие ограничений по срокам вывода средств
@@ -249,7 +260,7 @@
                     </li>
                     <li class="creation-list__item">
                         <div class="creation-list__logo">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/control.png" alt="control">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/control.png" alt="control">
                         </div>
                         <p class="creation-list__text">
                             Широкий выбор управляющих Памм счетами
@@ -257,7 +268,7 @@
                     </li>
                     <li class="creation-list__item">
                         <div class="creation-list__logo">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/technic.png" alt="technic">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/technic.png" alt="technic">
                         </div>
                         <p class="creation-list__text">
                             Работа с автоматизированными торговыми советниками MetaTrader 4\5
@@ -276,7 +287,8 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="director">
-                    <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/director.jpg" alt="director" class="director__img img">
+                    <img src="<?php bloginfo('template_url'); ?>/assets/img/director.jpg" alt="director"
+                         class="director__img img">
                     <p class="director__text">
                         Эмиль Вадимович
                         <span>Директор «Gold Capital»</span>
@@ -306,14 +318,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/1.png" alt="schedule-1">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/2.png" alt="schedule-2">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/3.png" alt="schedule-3">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/1.png" alt="schedule-1">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/2.png" alt="schedule-2">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/3.png" alt="schedule-3">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/1.png" alt="schedule-1">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/2.png" alt="schedule-2">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/3.png" alt="schedule-3">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/1.png" alt="schedule-1">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/2.png" alt="schedule-2">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/3.png" alt="schedule-3">
                         </div>
                         <div class="number">
                             2 / 20
@@ -326,7 +338,8 @@
                         <p class="director-slider__text">
                             Родился я в 1992 году в сердце Татарстана, а именно в спортивной столице России городе
                             Казань. В 16 лет закончил 9 классов в 96 гимназии и принял решение пойти на средне -
-                            специальное образование в техникум. До 2010 года успел проявить себя максимально компетентным
+                            специальное образование в техникум. До 2010 года успел проявить себя максимально
+                            компетентным
                             студентом, и получал повышенную стипендию за отличия в учебе.
                         </p>
                         <p class="director-slider__text">
@@ -351,14 +364,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/4.png" alt="schedule-4">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/5.png" alt="schedule-5">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/6.png" alt="schedule-6">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/4.png" alt="schedule-4">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/5.png" alt="schedule-5">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/6.png" alt="schedule-6">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/4.png" alt="schedule-4">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/5.png" alt="schedule-5">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/6.png" alt="schedule-6">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/4.png" alt="schedule-4">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/5.png" alt="schedule-5">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/6.png" alt="schedule-6">
                         </div>
                         <div class="number">
                             4 / 20
@@ -401,14 +414,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/7.png" alt="schedule-7">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/8.png" alt="schedule-8">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/9.png" alt="schedule-9">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/7.png" alt="schedule-7">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/8.png" alt="schedule-8">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/9.png" alt="schedule-9">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/7.png" alt="schedule-7">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/8.png" alt="schedule-8">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/9.png" alt="schedule-9">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/7.png" alt="schedule-7">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/8.png" alt="schedule-8">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/9.png" alt="schedule-9">
                         </div>
                         <div class="number">
                             6 / 20
@@ -460,14 +473,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/10.png" alt="schedule-10">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/11.png" alt="schedule-11">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/12.png" alt="schedule-12">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/10.png" alt="schedule-10">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/11.png" alt="schedule-11">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/12.png" alt="schedule-12">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/10.png" alt="schedule-10">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/11.png" alt="schedule-11">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/12.png" alt="schedule-12">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/10.png" alt="schedule-10">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/11.png" alt="schedule-11">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/12.png" alt="schedule-12">
                         </div>
                         <div class="number">
                             8 / 20
@@ -512,14 +525,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/13.png" alt="schedule-13">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/14.png" alt="schedule-14">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/15.png" alt="schedule-15">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/13.png" alt="schedule-13">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/14.png" alt="schedule-14">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/15.png" alt="schedule-15">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/10.png" alt="schedule-10">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/11.png" alt="schedule-11">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/12.png" alt="schedule-12">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/10.png" alt="schedule-10">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/11.png" alt="schedule-11">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/12.png" alt="schedule-12">
                         </div>
                         <div class="number">
                             10 / 20
@@ -561,14 +574,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/16.png" alt="schedule-16">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/17.png" alt="schedule-17">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/18.png" alt="schedule-18">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/16.png" alt="schedule-16">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/17.png" alt="schedule-17">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/18.png" alt="schedule-18">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/10.png" alt="schedule-10">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/11.png" alt="schedule-11">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/12.png" alt="schedule-12">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/10.png" alt="schedule-10">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/11.png" alt="schedule-11">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/12.png" alt="schedule-12">
                         </div>
                         <div class="number">
                             12 / 20
@@ -609,14 +622,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/19.png" alt="schedule-19">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/20.png" alt="schedule-20">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/21.png" alt="schedule-21">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/19.png" alt="schedule-19">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/20.png" alt="schedule-20">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/21.png" alt="schedule-21">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/10.png" alt="schedule-10">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/11.png" alt="schedule-11">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/12.png" alt="schedule-12">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/10.png" alt="schedule-10">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/11.png" alt="schedule-11">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/12.png" alt="schedule-12">
                         </div>
                         <div class="number">
                             14 / 20
@@ -661,14 +674,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/22.png" alt="schedule-22">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/23.png" alt="schedule-23">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/24.png" alt="schedule-24">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/22.png" alt="schedule-22">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/23.png" alt="schedule-23">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/24.png" alt="schedule-24">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/10.png" alt="schedule-10">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/11.png" alt="schedule-11">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/12.png" alt="schedule-12">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/10.png" alt="schedule-10">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/11.png" alt="schedule-11">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/12.png" alt="schedule-12">
                         </div>
                         <div class="number">
                             16 / 20
@@ -711,14 +724,14 @@
                     </div>
                     <div class="director-slider__item">
                         <div class="director-slider__picture d-flex">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/25.png" alt="schedule-25">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/26.png" alt="schedule-26">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/27.png" alt="schedule-27">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/25.png" alt="schedule-25">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/26.png" alt="schedule-26">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/27.png" alt="schedule-27">
                         </div>
                         <div class="director-slider__slider">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/10.png" alt="schedule-10">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/11.png" alt="schedule-11">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/12.png" alt="schedule-12">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/10.png" alt="schedule-10">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/11.png" alt="schedule-11">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/12.png" alt="schedule-12">
                         </div>
                         <div class="number">
                             18 / 20
@@ -768,9 +781,11 @@
                             И вся та сумма, накопленная на памм счете, благо там были в основном мои деньги,
                             распределилась между другими участниками рынка...
                         </p>
+                        <!--noindex--><!--googleoff: index-->
                         <h6 class="director-slider__title">
-                            Часть 10: Gold Capital
+                            Часть 10: GoldCapital
                         </h6>
+
                         <p class="director-slider__text">
                             Несмотря на то, что весь капитал был потерян, большинство инвесторов интересовались у меня,
                             что я дальше планирую делать с проектом. На фоне этого я принял решение, что останавливаться
@@ -794,6 +809,7 @@
                         <p class="director-slider__text">
                             А ты?
                         </p>
+                        <!--googleon: index--><!--/noindex-->
                         <div class="number">
                             20 / 20
                         </div>
@@ -820,7 +836,7 @@
                     <div class="reviews-slider__items d-flex justify-content-center">
                         <div class="reviews-slider__item  ">
                             <div class="reviews-slider__content  d-flex justify-content-center">
-                                <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/timur.png" alt="timur"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/img/timur.png" alt="timur"
                                      class="reviews-slider__img reviews-slider__item_active">
                                 <div class="reviews-slider__info">
                                     <p>
@@ -834,7 +850,8 @@
                         </div>
                         <div class="reviews-slider__item ">
                             <div class="reviews-slider__content d-flex justify-content-center">
-                                <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/sergey.png" alt="sergey" class="reviews-slider__img">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/img/sergey.png" alt="sergey"
+                                     class="reviews-slider__img">
                                 <div class="reviews-slider__info">
                                     <p>
                                         Сергей Левицкий
@@ -845,7 +862,8 @@
                         </div>
                         <div class="reviews-slider__item ">
                             <div class="reviews-slider__content d-flex justify-content-center">
-                                <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/roman.png" alt="roman" class="reviews-slider__img">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/img/roman.png" alt="roman"
+                                     class="reviews-slider__img">
                                 <div class="reviews-slider__info">
                                     <p>
                                         Роман
@@ -857,7 +875,8 @@
                         </div>
                         <div class="reviews-slider__item ">
                             <div class="reviews-slider__content d-flex justify-content-center">
-                                <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/mysin.png" alt="mysin" class="reviews-slider__img">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/img/mysin.png" alt="mysin"
+                                     class="reviews-slider__img">
                                 <div class="reviews-slider__info">
                                     <p>
                                         Мусин Айрат
@@ -870,7 +889,8 @@
 
                     <div class="reviews-slider__texts">
                         <div class="reviews-slider__text-block reviews-slider__text_active">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/Quotation marks.png" alt="quotation-marks" class="quotation-marks">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/Quotation marks.png"
+                                 alt="quotation-marks" class="quotation-marks">
                             <p class="reviews-slider__text reviews-slider__text_timur ">
                                 После представленного анализа и стратегии по золоту, принял решение участвовать в данном
                                 проекте. Если бы выводил сейчас, то зафиксировал бы 300% прибыли. Часть вывел, 40%
@@ -881,7 +901,8 @@
                             </p>
                         </div>
                         <div class="reviews-slider__text-block">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/Quotation marks.png" alt="quotation-marks" class="quotation-marks">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/Quotation marks.png"
+                                 alt="quotation-marks" class="quotation-marks">
                             <p class="reviews-slider__text">
                                 Всем привет. Уже второй год вкладываю в новогодний рост золота. И ни разу не пожалел. В
                                 следующем году зайду опять 100%. Всем советую попробовать. Пробовал сам, не получилось!
@@ -889,7 +910,8 @@
                             </p>
                         </div>
                         <div class="reviews-slider__text-block">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/Quotation marks.png" alt="quotation-marks" class="quotation-marks">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/Quotation marks.png"
+                                 alt="quotation-marks" class="quotation-marks">
                             <p class="reviews-slider__text">
                                 Всем привет. Уже 3 месяца зарабатываю благодаря Эмилю. 500% прибыли. Ребята советую
                                 попробовать. Посоветовал своим друзьям, они до сих пор не могут и заробатывают благодаря
@@ -897,7 +919,8 @@
                             </p>
                         </div>
                         <div class="reviews-slider__text-block">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/Quotation marks.png" alt="quotation-marks" class="quotation-marks">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/Quotation marks.png"
+                                 alt="quotation-marks" class="quotation-marks">
                             <p class="reviews-slider__text">
                                 Дорогие друзья! Эмиль — мощный трейдер! Я поздравил его, как и обещал. Ведь он сделал
                                 нам +
@@ -910,7 +933,8 @@
                 <div class="mob-reviews-slider">
                     <div class="mob-reviews-slider__item">
                         <div class="mob-reviews-slider__content d-flex justify-content-center">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/timur.png" alt="timur" class="mob-reviews-slider__img">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/timur.png" alt="timur"
+                                 class="mob-reviews-slider__img">
                             <div class="mob-reviews-slider__info">
                                 <p>
                                     Timur Badanov
@@ -918,7 +942,8 @@
                                 <a href="https://www.instagram.com/badanovt">@badanovt</a>
                             </div>
                         </div>
-                        <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/Quotation marks.png" alt="quotation-marks-mob" class="quotation-marks-mob">
+                        <img src="<?php bloginfo('template_url'); ?>/assets/img/Quotation marks.png"
+                             alt="quotation-marks-mob" class="quotation-marks-mob">
                         <p class="mob-reviews-slider__text">
                             После представленного анализа и стратегии по золоту, принял решение участвовать в данном
                             проекте. Если бы выводил сейчас, то зафиксировал бы 300% прибыли. Часть вывел, 40% прибыли.
@@ -928,7 +953,8 @@
                     </div>
                     <div class="mob-reviews-slider__item">
                         <div class="mob-reviews-slider__content d-flex justify-content-center">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/sergey.png" alt="sergey" class="mob-reviews-slider__img">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/sergey.png" alt="sergey"
+                                 class="mob-reviews-slider__img">
                             <div class="mob-reviews-slider__info">
                                 <p>
                                     Сергей Левицкий
@@ -936,7 +962,8 @@
                                 <a href="https://www.instagram.com/levisbarshow">@levisbarshow</a>
                             </div>
                         </div>
-                        <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/Quotation marks.png" alt="quotation-marks-mob" class="quotation-marks-mob">
+                        <img src="<?php bloginfo('template_url'); ?>/assets/img/Quotation marks.png"
+                             alt="quotation-marks-mob" class="quotation-marks-mob">
                         <p class="mob-reviews-slider__text">
                             Всем привет. Уже второй год вкладываю в новогодний рост золота. И ни разу не пожалел. В
                             следующем году зайду опять 100%. Всем советую попробовать. Пробовал сам, не получилось!
@@ -945,7 +972,8 @@
                     </div>
                     <div class="mob-reviews-slider__item">
                         <div class="mob-reviews-slider__content d-flex justify-content-center">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/roman.png" alt="roman" class="mob-reviews-slider__img">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/roman.png" alt="roman"
+                                 class="mob-reviews-slider__img">
                             <div class="mob-reviews-slider__info">
                                 <p>
                                     Роман
@@ -953,7 +981,8 @@
                                 <a href="https://www.instagram.com/roman_sorokin81">@roman_sorokin81</a>
                             </div>
                         </div>
-                        <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/Quotation marks.png" alt="quotation-marks-mob" class="quotation-marks-mob">
+                        <img src="<?php bloginfo('template_url'); ?>/assets/img/Quotation marks.png"
+                             alt="quotation-marks-mob" class="quotation-marks-mob">
                         <p class="mob-reviews-slider__text">
                             Всем привет. Уже 3 месяца зарабатываю благодаря Эмилю. 500% прибыли. Ребята советую
                             попробовать. Посоветовал своим друзьям, они до сих пор не могут и заробатывают благодаря
@@ -962,7 +991,8 @@
                     </div>
                     <div class="mob-reviews-slider__item">
                         <div class="mob-reviews-slider__content d-flex justify-content-center">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/mysin.png" alt="mysin" class="mob-reviews-slider__img">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/img/mysin.png" alt="mysin"
+                                 class="mob-reviews-slider__img">
                             <div class="mob-reviews-slider__info">
                                 <p>
                                     Мусин Айрат
@@ -970,7 +1000,8 @@
                                 <a href="https://www.instagram.com/musin.airat">@musin.airat</a>
                             </div>
                         </div>
-                        <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/Quotation marks.png" alt="quotation-marks-mob" class="quotation-marks-mob">
+                        <img src="<?php bloginfo('template_url'); ?>/assets/img/Quotation marks.png"
+                             alt="quotation-marks-mob" class="quotation-marks-mob">
                         <p class="mob-reviews-slider__text">
                             Дорогие друзья! Эмиль — мощный трейдер! Я поздравил его, как и обещал. Ведь он сделал нам +
                             698% на золоте. Продолжаем дальше с ним сотрудничать!

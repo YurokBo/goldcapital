@@ -3,20 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta id="vp" name="viewport" content="width=device-width, initial-scale=1">
-    <title><?php bloginfo('description'); ?></title>
-    <meta name="description" content="GoldCapital">
+    <!--<title><?php /*bloginfo('description'); */?></title>-->
+    <title>Gold Capital</title>
+    <meta name="description" content="Gold Capital">
     <meta name="keywords" content="legals, accounting, business">
     <meta name="google-site-verification" content="uRzsov0ESwF23AdyriQ_eBfYtsm8IizkANhb913bXtM"/>
     <meta name="yandex-verification" content="0494a74b68568cd8"/>
     <!-- Favicon -->
     <!-- <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon"> -->
     <!-- OG Tags -->
-    <meta property="og:title" content="GoldCapital">
+    <meta property="og:title" content="Gold Capital">
     <meta property="og:description"
           content="Инвестиции в драгоценные металлы. Сезонный проект на росте золота, от 500% чистой прибыли">
-    <meta property="og:type" content="GoldCapital">
+    <meta property="og:type" content="Gold Capital">
     <meta property="og:image" content="<?php bloginfo('template_url'); ?>/assets/img/phone.jpg">
-    <meta property="og:site_name" content="GoldCapital">
+    <meta property="og:site_name" content="Gold Capital">
     <!-- Bootstrap CSS -->
 
     <!-- Main CSS -->
@@ -81,7 +82,7 @@
                     </ul>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-6 d-flex justify-content-end align-items-center">
-                    <a href="https://alpari.finance/ru/registration/?cpa_partner_id=12555567"
+                    <a href="https://gobymylink.com/?partner_id=1256745"
                        target="_blank"
                        rel="nofollow noopener noreferrer" class="nav-btn btn ">
                         Регистрация
@@ -137,7 +138,6 @@
                             <div class="offer-slider__info">
                                 <h1 class="offer-slider__title">
                                     <?php the_field('offer-slider__title-1'); ?>
-
                                 </h1>
                                 <p class="offer-slider__text">
                                     <?php the_field('offer-slider__text-1'); ?>
