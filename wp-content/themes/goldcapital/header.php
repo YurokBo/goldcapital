@@ -82,7 +82,7 @@
                     </ul>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-6 d-flex justify-content-end align-items-center">
-                    <a href="https://gobymylink.com/ru/registration/?promotionId=109&cpa_partner_id=12555567"
+                    <a href="https://gobymylink.com/ru/?cpa_partner_id=12555567&sub_id=GoldCapital"
                        target="_blank"
                        rel="nofollow noopener noreferrer" class="nav-btn btn ">
                         Регистрация

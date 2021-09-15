@@ -230,7 +230,7 @@
                     </div>
                 </li>
             </div>
-            <a href="https://gobymylink.com/ru/registration/?promotionId=109&cpa_partner_id=12555567" target="_blank"
+            <a href="https://gobymylink.com/ru/?cpa_partner_id=12555567&sub_id=GoldCapital" target="_blank"
                rel="nofollow noopener noreferrer" class="nav-btn menu-collapse-btn btn ">
                 Регистрация
             </a>
