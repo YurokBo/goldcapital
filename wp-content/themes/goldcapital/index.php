@@ -141,6 +141,10 @@
                                         <a target="_blank" href="https://alpari.finance/ru/invest/pamm/505136/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpari.finance/ru/invest/pamm/505136/banners/Banner5.svg"></a>
+
+                                        <a target="_blank" href="https://alpari.finance/ru/invest/pamm/505385/"><img
+                                                    style="width: 728px; height: 89px; border: 0;"
+                                                    src="https://alpari.finance/ru/invest/pamm/505385/banners/Banner5.svg"></a>
                                     </div>
                                 </div>
                                 <div class="alpari-widget__mobile">
@@ -162,6 +166,10 @@
                                         <a target="_blank" href="https://alpari.finance/ru/invest/pamm/505136/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
                                                     src="https://alpari.finance/ru/invest/pamm/505136/banners/Banner3.svg"></a>
+
+                                        <a target="_blank" href="https://alpari.finance/ru/invest/pamm/505385/"><img
+                                                    style="width: 250px; height: 250px; border: 0;"
+                                                    src="https://alpari.finance/ru/invest/pamm/505385/banners/Banner3.svg"></a>
                                     </div>
                                 </div>
                             </div>
