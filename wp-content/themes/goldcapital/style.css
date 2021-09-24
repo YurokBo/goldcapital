@@ -2009,8 +2009,8 @@ a.jackpot__more_link:active {
 
 .angle-up {
     position: absolute;
-    right: -129px;
-    bottom: 0;
+    right: -30px;
+    bottom: 20px;
     width: 20px;
     height: 20px;
 }
@@ -2310,6 +2310,9 @@ a.jackpot__more_link:active {
     .footer-menu li {
         width: 33%;
     }
+    .footer-menu li.angle-up {
+        width: 20px;
+    }
 
     /*  modal window  */
     .modal-dialog {
@@ -2352,6 +2355,10 @@ a.jackpot__more_link:active {
         font-size: 20px;
         line-height: 31px;
         color: #F5AF45;
+    }
+
+    li.angle-up {
+        bottom: 34px;
     }
 
 }
