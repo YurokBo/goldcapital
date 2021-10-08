@@ -241,6 +241,8 @@
 <div><img src="https://mc.yandex.ru/watch/66235159" style="position:absolute; left:-9999px;" alt="metrica"/></div>
 <!-- /Yandex.Metrika counter -->
 <!-- Script -->
+
+<script src="//taplink.cc/emilkzn/widget/" async></script>
 <?php wp_footer(); ?>
 
 </body>
