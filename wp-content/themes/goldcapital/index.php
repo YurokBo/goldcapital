@@ -142,10 +142,6 @@
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/505136/banners/Banner5.svg"></a>
 
-                                        <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505385/"><img
-                                                    style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpariforex.online/ru/invest/pamm/505385/banners/Banner5.svg"></a>
-
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505706/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/505706/banners/Banner5.svg"></a>
@@ -178,10 +174,6 @@
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505136/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/505136/banners/Banner3.svg"></a>
-
-                                        <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505385/"><img
-                                                    style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpariforex.online/ru/invest/pamm/505385/banners/Banner3.svg"></a>
 
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505706/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
