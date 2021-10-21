@@ -230,7 +230,7 @@
                     <li class="services-list__item closeAcc">
                         <div class="services-list__content d-flex justify-content-between">
                             <h4 class="services-list__title">
-                                Наш проект «Большой куш»
+                                Проект «Большой куш»
                             </h4>
                             <div class="services-list__angle">
                                 <i class="fa fa-angle-down"></i>
