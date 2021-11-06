@@ -730,7 +730,7 @@ input {
     /* фоновый цвет элемента */
     background: #000000;
     /* размещаем блок над всеми элементами на странице (это значение должно быть больше, чем у любого другого позиционированного элемента на странице) */
-    z-index: 1001;
+    z-index: 999999;
 }
 
 .preloader__wrapper {
@@ -2099,6 +2099,20 @@ a.jackpot__more_link:active {
     margin-left: 3px;
 }
 
+.services-list__video {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.services-list__video-item-title {
+    margin-bottom: 10px;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #252835;
+}
+
 .justify-content-between,
 .d-flex {
     border-bottom: none;
@@ -2359,6 +2373,10 @@ a.jackpot__more_link:active {
 
     li.angle-up {
         bottom: 34px;
+    }
+
+    .services-list__video {
+        grid-template-columns: repeat(2, 1fr);
     }
 
 }
@@ -2649,6 +2667,9 @@ a.jackpot__more_link:active {
         color: #FFFFFF;
     }
 
+    .services-list__video {
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
 
 /* 450 - 576 px */
@@ -2899,6 +2920,10 @@ a.jackpot__more_link:active {
     .modal-social .social__item i {
         font-size: 16px;
         line-height: 1em;
+    }
+
+    .services-list__video {
+        grid-template-columns: repeat(1, 1fr);
     }
 
 }

@@ -9,7 +9,8 @@
                     <h3 class="capital__title">
                         Gold Capital —
                     </h3>
-                    <p class="capital__text">это команда профессиональных финансовых консультантов, задача которых максимально эффективно
+                    <p class="capital__text">это команда профессиональных финансовых консультантов, задача которых
+                        максимально эффективно
                         подобрать инвестиционный продукт, наиболее соответствующий всем критериям надежности и
                         ликвидности, существующим на сегодняшний день
                     </p>
@@ -221,17 +222,27 @@
                     <li class="services-list__item closeAcc">
                         <div class="services-list__content d-flex justify-content-between">
                             <h4 class="services-list__title">
-                                Групповой курс трейдинга
+                                Видео
                             </h4>
                             <div class="services-list__angle">
                                 <i class="fa fa-angle-down"></i>
                             </div>
                         </div>
-                        <div class="services-list__block">
-                            <p>
-                                <?php the_field('accordion-text-3'); ?>
-
-                            </p>
+                        <div class="services-list__block services-list__video">
+                            <!--<p>
+                                <?php /*the_field('accordion-text-3'); */?>
+                            </p>-->
+                            <div class="services-list__video-item">
+                                <h4 class="services-list__video-item-title">
+                                    Зум по золоту от 29 октября 2021 года
+                                </h4>
+                                <div class="services-list__video-item-video">
+                                    <iframe src="https://www.youtube.com/embed/2-baCoq8suk"
+                                            title="YouTube video player" frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                            allowfullscreen></iframe>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <div class="consultation"></div>
