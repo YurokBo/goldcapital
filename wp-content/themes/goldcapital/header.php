@@ -45,7 +45,9 @@
 <!-- preloader -->
 <div class="preloader">
     <div class="preloader__wrapper">
-        <img src="<?php bloginfo('template_url'); ?>/assets/img/preloader-mobile.gif)" alt="preloader"
+<!--        <img src="--><?php //bloginfo('template_url'); ?><!--/assets/img/preloader-mobile.gif)" alt="preloader"-->
+<!--             class="preloader__gif">-->
+        <img src="<?php bloginfo('template_url'); ?>/assets/img/gold-logo.svg)" alt="preloader"
              class="preloader__gif">
     </div>
 </div>
