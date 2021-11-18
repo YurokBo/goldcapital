@@ -143,10 +143,6 @@
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/505136/banners/Banner5.svg"></a>
 
-                                        <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505706/"><img
-                                                    style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpariforex.online/ru/invest/pamm/505706/banners/Banner5.svg"></a>
-
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/506298/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/506298/banners/Banner5.svg"></a>
@@ -176,10 +172,6 @@
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505136/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/505136/banners/Banner3.svg"></a>
-
-                                        <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505706/"><img
-                                                    style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpariforex.online/ru/invest/pamm/505706/banners/Banner3.svg"></a>
 
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/506298/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
@@ -223,7 +215,7 @@
                         </div>
                         <div class="services-list__block services-list__video">
                             <!--<p>
-                                <?php /*the_field('accordion-text-3'); */?>
+                                <?php /*the_field('accordion-text-3'); */ ?>
                             </p>-->
                             <div class="services-list__video-item">
                                 <h4 class="services-list__video-item-title">
@@ -231,6 +223,39 @@
                                 </h4>
                                 <div class="services-list__video-item-video">
                                     <iframe src="https://www.youtube.com/embed/2-baCoq8suk"
+                                            title="YouTube video player" frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                            allowfullscreen></iframe>
+                                </div>
+                            </div>
+                            <div class="services-list__video-item">
+                                <h4 class="services-list__video-item-title">
+                                    Регистрация клиента в Alpari
+                                </h4>
+                                <div class="services-list__video-item-video">
+                                    <iframe src="https://www.youtube.com/embed/id3_N4XzTjg"
+                                            title="YouTube video player" frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                            allowfullscreen></iframe>
+                                </div>
+                            </div>
+                            <div class="services-list__video-item">
+                                <h4 class="services-list__video-item-title">
+                                    Подключение к памм счету GoldCapital 2021
+                                </h4>
+                                <div class="services-list__video-item-video">
+                                    <iframe src="https://www.youtube.com/embed/HN8hUS8TbgM"
+                                            title="YouTube video player" frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                            allowfullscreen></iframe>
+                                </div>
+                            </div>
+                            <div class="services-list__video-item">
+                                <h4 class="services-list__video-item-title">
+                                    Инструкция по получению реферальной ссылки
+                                </h4>
+                                <div class="services-list__video-item-video">
+                                    <iframe src="https://www.youtube.com/embed/QFU1O4-WM6A"
                                             title="YouTube video player" frameborder="0"
                                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                             allowfullscreen></iframe>
