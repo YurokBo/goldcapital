@@ -2104,12 +2104,17 @@ a.jackpot__more_link:active {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
 }
-
+.services-list__video-item {
+    overflow: hidden;
+}
 .services-list__video-item-title {
     margin-bottom: 10px;
     font-family: 'Montserrat-SemiBold', sans-serif;
     font-weight: 600;
     font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     color: #252835;
 }
 
