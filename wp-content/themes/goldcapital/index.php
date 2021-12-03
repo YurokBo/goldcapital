@@ -135,10 +135,6 @@
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/421969/banners/Banner5.svg"></a>
 
-                                        <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505138/"><img
-                                                    style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpariforex.online/ru/invest/pamm/505138/banners/Banner5.svg"></a>
-
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505136/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/505136/banners/Banner5.svg"></a>
@@ -164,10 +160,6 @@
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/421969/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
                                                     src="https://alpariforex.online/ru/invest/pamm/421969/banners/Banner3.svg"></a>
-
-                                        <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505138/"><img
-                                                    style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpariforex.online/ru/invest/pamm/505138/banners/Banner3.svg"></a>
 
                                         <a target="_blank" href="https://alpariforex.online/ru/invest/pamm/505136/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
@@ -263,7 +255,6 @@
                             </div>
                         </div>
                     </li>
-                    <div class="consultation"></div>
                     <li class="services-list__item closeAcc">
                         <div class="services-list__content d-flex justify-content-between">
                             <h4 class="services-list__title">

@@ -234,6 +234,10 @@
                rel="nofollow noopener noreferrer" class="nav-btn menu-collapse-btn btn ">
                 Регистрация
             </a>
+            <a href="https://gobymylink.com/ru/login/?cpa_partner_id=12555567&sub_id=GoldCapital" target="_blank"
+               rel="nofollow noopener noreferrer" class="nav-btn menu-collapse-btn btn ">
+                Вход
+            </a>
         </ul>
     </ul>
 </div>

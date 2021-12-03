@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta id="vp" name="viewport" content="width=device-width, initial-scale=1">
-    <!--<title><?php /*bloginfo('description'); */?></title>-->
+    <!--<title><?php /*bloginfo('description'); */ ?></title>-->
     <title>Gold Capital</title>
     <meta name="description" content="Gold Capital">
     <meta name="keywords" content="legals, accounting, business">
@@ -24,19 +24,26 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
     <!-- Yandex.Metrika counter -->
-    <script type="text/javascript" >
-        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    <script type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
         (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
         ym(66235159, "init", {
-            clickmap:true,
-            trackLinks:true,
-            accurateTrackBounce:true,
-            webvisor:true
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
         });
     </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/66235159" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/66235159" style="position:absolute; left:-9999px;" alt=""/></div>
+    </noscript>
     <!-- /Yandex.Metrika counter -->
 
     <?php wp_head(); ?>
@@ -45,8 +52,9 @@
 <!-- preloader -->
 <div class="preloader">
     <div class="preloader__wrapper">
-<!--        <img src="--><?php //bloginfo('template_url'); ?><!--/assets/img/preloader-mobile.gif)" alt="preloader"-->
-<!--             class="preloader__gif">-->
+        <!--        <img src="-->
+        <?php //bloginfo('template_url'); ?><!--/assets/img/preloader-mobile.gif)" alt="preloader"-->
+        <!--             class="preloader__gif">-->
         <img src="<?php bloginfo('template_url'); ?>/assets/img/gold-logo.svg)" alt="preloader"
              class="preloader__gif">
     </div>
@@ -68,7 +76,7 @@
 
                     </a>
                 </div>
-                <div class="d-none col-xl-8 col-lg-7 d-lg-block ">
+                <div class="d-none col-xl-6 col-lg-6 d-lg-block">
                     <ul class="menu d-flex justify-content-around">
                         <li class="menu__item">
                             <a href="#about" class="menu__link">
@@ -97,11 +105,17 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-xl-2 col-lg-3 col-6 d-flex justify-content-end align-items-center">
+                <div class="col-xl-4 col-lg-4 col-6 d-flex justify-content-end align-items-center">
                     <a href="https://gobymylink.com/ru/registration/?cpa_partner_id=12555567&sub_id=GoldCapital"
                        target="_blank"
-                       rel="nofollow noopener noreferrer" class="nav-btn btn ">
+                       rel="nofollow noopener noreferrer" class="nav-btn btn mr-3"
+                    >
                         Регистрация
+                    </a>
+                    <a href="https://gobymylink.com/ru/login/?cpa_partner_id=12555567&sub_id=GoldCapital"
+                       target="_blank"
+                       rel="nofollow noopener noreferrer" class="nav-btn btn ">
+                        Вход
                     </a>
                     <button type="button" class="gamburger d-lg-none">
                         <span></span>
