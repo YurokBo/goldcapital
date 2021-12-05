@@ -64,8 +64,8 @@
 <div id="particles-js"></div>
 
 <!-- Header -->
-<header class="header" id="header"
-        style="background-image: url(<?php bloginfo('template_url'); ?>/assets/img/background-header.png)">
+<header class="header" id="header">
+        <!--style="background-image: url(<?php /*bloginfo('template_url'); */?>/assets/img/background-header.png)"-->
     <div class="navigation">
         <div class="container">
             <div class="row align-items-center">

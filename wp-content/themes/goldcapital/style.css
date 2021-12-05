@@ -606,7 +606,7 @@ input {
     display: block;
     max-width: 255px;
     width: 100%;
-    background-color: #252835;
+    background-color: #000000;
     border-radius: 0;
     font-family: 'Montserrat-Bold', sans-serif;
     font-weight: bold;
@@ -623,7 +623,7 @@ input {
 
 .btn:active {
     background-color: #F8F8F8;
-    color: #252835;
+    color: #000000;
 }
 
 .img {
@@ -646,7 +646,7 @@ input {
 }
 
 .director-slider h6 {
-    color: #252835;
+    color: #000000;
     margin-bottom: 20px;
 }
 
@@ -766,7 +766,7 @@ input {
 
 .header {
     padding: 0 0 120px;
-    background: #252835 url(../img/background-header.png) no-repeat center center / cover;
+    background: #000000;
 }
 
 .navigation {
@@ -774,7 +774,7 @@ input {
     position: fixed;
     width: 100%;
     z-index: 1000;
-    background-color: #252835;
+    background-color: #000000;
 }
 
 .header-logo {
@@ -880,7 +880,7 @@ input {
 }
 
 .menu-collapse__link {
-    color: #252835;
+    color: #000000;
     font-family: 'Montserrat-Medium', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -928,8 +928,8 @@ input {
     border-radius: 100%;
     text-align: center;
     line-height: 30px;
-    background-color: #252835;
-    color: #252835;
+    background-color: #000000;
+    color: #000000;
 }
 
 .networks-collapse__item_telegram {
@@ -955,7 +955,7 @@ input {
     font-family: 'Montserrat-Bold', sans-serif;
     font-weight: bold;
     font-size: 16px;
-    color: #252835;
+    color: #000000;
 }
 
 .networks-collapse__call a:hover {
@@ -985,11 +985,11 @@ input {
 }
 
 .hover-collapse:hover a {
-    color: #252835;
+    color: #000000;
 }
 
 .hover-collapse:active a {
-    color: #252835;
+    color: #000000;
 }
 
 .hover-collapse__block {
@@ -1020,7 +1020,7 @@ input {
 }
 
 .hover-colapse__link:hover {
-    color: #252835 !important;
+    color: #000000 !important;
 }
 
 .networks-collapse__item_telegram:hover .hover-collapse {
@@ -1063,7 +1063,7 @@ input {
     position: absolute;
     top: 355px;
     left: 35px;
-    color: #252835;
+    color: #000000;
 }
 
 .networks__item_telegram {
@@ -1117,7 +1117,7 @@ input {
     line-height: 1.9em;
     z-index: 1;
 
-    box-shadow: 5px 0 25px -8px #252835, -5px 0 25px -8px #252835;
+    box-shadow: 5px 0 25px -8px #000000, -5px 0 25px -8px #000000;
 }
 
 .hover:active {
@@ -1148,7 +1148,7 @@ input {
 }
 
 .hover__link:hover {
-    color: #252835 !important;
+    color: #000000 !important;
 }
 
 .networks__item_telegram:hover .hover {
@@ -1174,7 +1174,7 @@ input {
     font-size: 18px;
     font-family: 'Montserrat-Regular', sans-serif;
     font-weight: normal;
-    color: #252835;
+    color: #000000;
     margin-bottom: 30px;
 }
 
@@ -1222,7 +1222,7 @@ input {
 }
 
 .offer-slider .slick-dots li.slick-active button {
-    background: #252835;
+    background: #000000;
 }
 
 .offer-list {
@@ -1260,7 +1260,7 @@ input {
 }
 
 .capital__title {
-    color: #252835;
+    color: #000000;
     margin: 0 0 25px 56px;
     position: relative;
 }
@@ -1283,7 +1283,7 @@ input {
     left: -50px;
     width: 6px;
     height: 131px;
-    background-color: #252835;
+    background-color: #000000;
 }
 
 
@@ -1301,7 +1301,7 @@ input {
 }
 
 .jackpot__title {
-    color: #252835;
+    color: #000000;
     margin-bottom: 25px;
 }
 
@@ -1407,7 +1407,7 @@ a.jackpot__more_link:active {
 
 .services {
     padding: 120px 10px;
-    background: #252835 url(../img/serices-bg.jpg) no-repeat center center / cover;
+    background: #000000 url(../img/serices-bg.jpg) no-repeat center center / cover;
 }
 
 
@@ -1430,53 +1430,53 @@ a.jackpot__more_link:active {
 
 .services-list__item:hover .services-list__content {
     background-color: #fff;
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__item:focus .services-list__content {
     background-color: #fff;
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__item:active .services-list__content {
     background-color: #fff;
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__content:focus {
     background-color: #fff;
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__content:active {
     background-color: #fff;
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__content .active {
     background-color: #fff;
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__content:visited {
     background-color: #fff;
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__item:hover .services-list__title {
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__content:focus {
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__item:hover .services-list__angle i {
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__content:focus {
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__angle {
@@ -1495,7 +1495,7 @@ a.jackpot__more_link:active {
     height: 41px;
     border-radius: 100%;
     background-color: transparent;
-    border: 2px solid #252835;
+    border: 2px solid #000000;
     line-height: 41px;
     text-align: center;
 
@@ -1588,7 +1588,7 @@ a.jackpot__more_link:active {
 }
 
 .creation-title {
-    color: #252835;
+    color: #000000;
     margin: 0 0 84px 56px;
     position: relative;
 }
@@ -1601,7 +1601,7 @@ a.jackpot__more_link:active {
     left: -50px;
     width: 6px;
     height: 52px;
-    background-color: #252835;
+    background-color: #000000;
 }
 
 .director {
@@ -1618,7 +1618,7 @@ a.jackpot__more_link:active {
     width: 1165px;
     height: 111px;
     z-index: 0;
-    background-color: #252835;
+    background-color: #000000;
 }
 
 .director__text {
@@ -1673,7 +1673,7 @@ a.jackpot__more_link:active {
 }
 
 .reviews-title {
-    color: #252835;
+    color: #000000;
     margin: 0 0 84px 56px;
     position: relative;
 }
@@ -1686,7 +1686,7 @@ a.jackpot__more_link:active {
     left: -50px;
     width: 6px;
     height: 52px;
-    background-color: #252835;
+    background-color: #000000;
 }
 
 .reviews-slider__content {
@@ -1771,7 +1771,7 @@ a.jackpot__more_link:active {
 }
 
 .reviews-slider .slick-prev {
-    color: #252835;
+    color: #000000;
     font-size: 35px;
     top: 25px;
     left: 25px;
@@ -1779,7 +1779,7 @@ a.jackpot__more_link:active {
 }
 
 .reviews-slider .slick-next {
-    color: #252835;
+    color: #000000;
     font-size: 35px;
     top: 25px;
 }
@@ -1851,7 +1851,7 @@ a.jackpot__more_link:active {
 }
 
 .mob-reviews-slider .slick-next {
-    color: #252835;
+    color: #000000;
     top: 25px;
     right: 0;
 }
@@ -1921,7 +1921,7 @@ a.jackpot__more_link:active {
 
 .contacts {
     padding: 134px 0 60px;
-    background-color: #252835;
+    background-color: #000000;
 }
 
 .contacts-title {
@@ -2019,7 +2019,7 @@ a.jackpot__more_link:active {
 
 .footer {
     padding: 60px 53px;
-    background-color: #252835;
+    background-color: #000000;
 }
 
 .footer-menu {
@@ -2086,16 +2086,16 @@ a.jackpot__more_link:active {
 }
 
 .services-list__item.openAcc > .services-list__content .services-list__title {
-    color: #252835;
+    color: #000000;
 }
 
 .services-list__item.openAcc > .services-list__content .services-list__angle {
-    border-color: #252835;
+    border-color: #000000;
 }
 
 .services-list__item.openAcc > .services-list__content .services-list__angle i {
     transform: rotate(-90deg);
-    color: #252835;
+    color: #000000;
     margin-left: 3px;
 }
 
@@ -2115,7 +2115,7 @@ a.jackpot__more_link:active {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    color: #252835;
+    color: #000000;
 }
 
 .justify-content-between,
@@ -2134,7 +2134,7 @@ a.jackpot__more_link:active {
 .modal-content {
 
     border-radius: 0;
-    color: #252835;
+    color: #000000;
     text-align: center;
 
     background-image: url('../img/modal-body-bg.jpg');
@@ -2367,7 +2367,7 @@ a.jackpot__more_link:active {
 
     .modal-social .social__item {
         margin-top: -5px;
-        background-color: #252835;
+        background-color: #000000;
     }
 
     .modal-social .social__item i {
@@ -2634,8 +2634,8 @@ a.jackpot__more_link:active {
 
     .menu-collapse-btn {
         display: block;
-        border-color: #252835;
-        color: #252835;
+        border-color: #000000;
+        color: #000000;
         margin-top: 30px;
     }
 

@@ -95,8 +95,8 @@
     </div>
 </section>
 <!-- services-->
-<section id="services" class="services"
-         style="background-image: url(<?php bloginfo('template_url'); ?>/assets/img/serices-bg.jpg)">
+<section id="services" class="services">
+         <!--style="background-image: url(<?php /*bloginfo('template_url'); */?>/assets/img/serices-bg.jpg)"-->
     <div class="container">
         <div class="row">
             <div class="col">
