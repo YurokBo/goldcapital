@@ -274,7 +274,7 @@
                 </ul>
             </div>
         </div>
-        <div class="row">
+        <div class="consultation row">
             <div class="col">
                 <h4 class="consultation-title">
                     Получить бесплатную консультацию

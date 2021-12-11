@@ -181,6 +181,11 @@ $(function () {
         $('.offer-slider').slick({
             dots: true,
             infinite: true,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 3000,
+            pauseOnHover: true,
+            pauseOnFocus: true,
             prevArrow: '<button type = "button" class="slick-prev"><i class="fa fa-angle-left"></i></ button>',
             nextArrow: '<button type = "button" class="slick-next"><i class="fa fa-angle-right"></i></ button>'
         });
@@ -312,8 +317,8 @@ $(function () {
     // open modal window
     $(function () {
         $('#form-btn-1').click(function () {
-            var1 = $('#id_field1').val();
-            var2 = $('#id_field2').val();
+           let var1 = $('#id_field1').val();
+           let var2 = $('#id_field2').val();
             if ((var1 === "") || (var2 === "")) {
                 return;
             } else {
@@ -324,8 +329,8 @@ $(function () {
 
     $(function () {
         $('#form-btn-2').click(function () {
-            var3 = $('#id_field3').val();
-            var4 = $('#id_field4').val();
+            let var3 = $('#id_field3').val();
+            let var4 = $('#id_field4').val();
             if ((var3 === "") || (var4 === "")) {
                 return;
             } else {

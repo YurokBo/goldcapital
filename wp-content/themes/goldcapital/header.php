@@ -127,7 +127,7 @@
     <div class="offer">
         <ul class="networks">
             <li class="networks__call">
-                <a href=".consultation" target="_blank" class="networks__link networks__link_call"
+                <a href=".consultation" class="networks__link networks__link_call"
                    rel="nofollow noopener noreferrer">
                     Заказать звонок
                 </a>
