@@ -346,6 +346,10 @@ const accItem = document.getElementsByClassName('services-list__item'),
     accHD = document.getElementsByClassName('services-list__content');
 for (let i = 0; i < accHD.length; i++) {
     accHD[i].addEventListener('click', toggleItem, false);
+    accHD[i].addEventListener('click', () => {
+        accHD[i].scrollIntoView({block: "start", behavior: "smooth"});
+        accHD[i].style.scrollMarginTop = "90px";
+    });
 }
 
 function toggleItem() {
