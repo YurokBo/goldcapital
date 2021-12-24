@@ -143,10 +143,6 @@
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpari-forex.cc/ru/invest/pamm/506298/banners/Banner5.svg"></a>
 
-
-                                        <a target="_blank" href="https://alpari-forex.cc/ru/invest/pamm/508050/"><img
-                                                    style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpari-forex.cc/ru/invest/pamm/508050/banners/Banner5.svg"></a>
                                     </div>
                                 </div>
                                 <div class="alpari-widget__mobile">
@@ -169,9 +165,6 @@
                                                     style="width: 250px; height: 250px; border: 0;"
                                                     src="https://alpari-forex.cc/ru/invest/pamm/506298/banners/Banner3.svg"></a>
 
-                                        <a target="_blank" href="https://alpari-forex.cc/ru/invest/pamm/508050/"><img
-                                                    style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpari-forex.cc/ru/invest/pamm/508050/banners/Banner3.svg"></a>
                                     </div>
                                 </div>
                             </div>
@@ -268,7 +261,22 @@
                             <p>
                                 <?php the_field('accordion-text-4'); ?>
                             </p>
-
+                            <div class="alpari-widget">
+                                <div class="alpari-widget__desctop">
+                                    <div class="alpari-widget__top">
+                                        <a target="_blank" href="https://alpari-forex.cc/ru/invest/pamm/508050/"><img
+                                                    style="width: 728px; height: 89px; border: 0;"
+                                                    src="https://alpari-forex.cc/ru/invest/pamm/508050/banners/Banner5.svg"></a>
+                                    </div>
+                                </div>
+                                <div class="alpari-widget__mobile">
+                                    <div class="alpari-widget__top">
+                                        <a target="_blank" href="https://alpari-forex.cc/ru/invest/pamm/508050/"><img
+                                                    style="width: 250px; height: 250px; border: 0;"
+                                                    src="https://alpari-forex.cc/ru/invest/pamm/508050/banners/Banner3.svg"></a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </li>
                 </ul>
