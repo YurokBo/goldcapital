@@ -2236,6 +2236,10 @@ a.jackpot__more_link:active {
     display: none;
 }
 
+.slick-slide img {
+    width: 493px;
+}
+
 /* Media Queries */
 
 /* 992 - 1200 px */
