@@ -96,7 +96,7 @@
 </section>
 <!-- services-->
 <section id="services" class="services">
-         <!--style="background-image: url(<?php /*bloginfo('template_url'); */?>/assets/img/serices-bg.jpg)"-->
+    <!--style="background-image: url(<?php /*bloginfo('template_url'); */ ?>/assets/img/serices-bg.jpg)"-->
     <div class="container">
         <div class="row">
             <div class="col">
@@ -241,6 +241,17 @@
                                 </h4>
                                 <div class="services-list__video-item-video">
                                     <iframe src="https://www.youtube.com/embed/QFU1O4-WM6A"
+                                            title="YouTube video player" frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                            allowfullscreen></iframe>
+                                </div>
+                            </div>
+                            <div class="services-list__video-item">
+                                <h4 class="services-list__video-item-title">
+                                    Вывод денег с ПАММ счёта в Alpari
+                                </h4>
+                                <div class="services-list__video-item-video">
+                                    <iframe src="https://www.youtube.com/embed/Tg6tjgYRxxU"
                                             title="YouTube video player" frameborder="0"
                                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                             allowfullscreen></iframe>
