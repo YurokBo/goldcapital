@@ -2393,6 +2393,10 @@ a.jackpot__more_link:active {
 /* 768 - 992 px */
 @media screen and (max-width: 991.98px) {
 
+    .slick-slide img {
+        width: 270px;
+    }
+
     .offer-slider__img {
         width: 40%;
     }
