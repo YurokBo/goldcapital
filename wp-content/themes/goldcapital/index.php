@@ -128,16 +128,16 @@
                                         <h5 class="alpari-widget__top-title">
                                             Топ Alpari
                                         </h5>
-                                        <a target="_blank" href="https://alpari-company.me/ru/invest/pamm/458733/">
+                                        <a target="_blank" href="https://alparicompany.info/ru/invest/pamm/458733/">
                                             <img style="width: 728px; height: 89px; border: 0;"
-                                                 src="https://alpari-company.me/ru/invest/pamm/458733/banners/Banner5.svg"></a>
-                                        <a target="_blank" href="https://alpari-company.me/ru/invest/pamm/421969/"><img
+                                                 src="https://alparicompany.info/ru/invest/pamm/458733/banners/Banner5.svg"></a>
+                                        <a target="_blank" href="https://alparicompany.info/ru/invest/pamm/421969/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpari-company.me/ru/invest/pamm/421969/banners/Banner5.svg"></a>
+                                                    src="https://alparicompany.info/ru/invest/pamm/421969/banners/Banner5.svg"></a>
 
-                                        <a target="_blank" href="https://alpari-company.me/ru/invest/pamm/505136/"><img
+                                        <a target="_blank" href="https://alparicompany.info/ru/invest/pamm/505136/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpari-company.me/ru/invest/pamm/505136/banners/Banner5.svg"></a>
+                                                    src="https://alparicompany.info/ru/invest/pamm/505136/banners/Banner5.svg"></a>
 
 
                                     </div>
@@ -147,16 +147,16 @@
                                         <h5 class="alpari-widget__top-title">
                                             Топ Alpari
                                         </h5>
-                                        <a target="_blank" href="https://alpari-company.me/ru/invest/pamm/458733/"><img
+                                        <a target="_blank" href="https://alparicompany.info/ru/invest/pamm/458733/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpari-company.me/ru/invest/pamm/458733/banners/Banner3.svg"></a>
-                                        <a target="_blank" href="https://alpari-company.me/ru/invest/pamm/421969/"><img
+                                                    src="https://alparicompany.info/ru/invest/pamm/458733/banners/Banner3.svg"></a>
+                                        <a target="_blank" href="https://alparicompany.info/ru/invest/pamm/421969/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpari-company.me/ru/invest/pamm/421969/banners/Banner3.svg"></a>
+                                                    src="https://alparicompany.info/ru/invest/pamm/421969/banners/Banner3.svg"></a>
 
-                                        <a target="_blank" href="https://alpari-company.me/ru/invest/pamm/505136/"><img
+                                        <a target="_blank" href="https://alparicompany.info/ru/invest/pamm/505136/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpari-company.me/ru/invest/pamm/505136/banners/Banner3.svg"></a>
+                                                    src="https://alparicompany.info/ru/invest/pamm/505136/banners/Banner3.svg"></a>
 
 
                                     </div>
@@ -178,7 +178,7 @@
                                 <?php the_field('accordion-text-2'); ?>
                             </p>
 
-                            <a href="https://alpari-company.me/ru/school/" target="_blank"
+                            <a href="https://alparicompany.info/ru/school/" target="_blank"
                                rel="nofollow noopener noreferrer">Бесплатный
                                 курс трейдинга <span>по ссылке</span></a>
                         </div>
@@ -269,16 +269,16 @@
                             <div class="alpari-widget">
                                 <div class="alpari-widget__desctop">
                                     <div class="alpari-widget__top">
-                                        <a target="_blank" href="https://alpari-company.me/ru/invest/pamm/508050/"><img
+                                        <a target="_blank" href="https://alparicompany.info/ru/invest/pamm/508050/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpari-company.me/ru/invest/pamm/508050/banners/Banner5.svg"></a>
+                                                    src="https://alparicompany.info/ru/invest/pamm/508050/banners/Banner5.svg"></a>
                                     </div>
                                 </div>
                                 <div class="alpari-widget__mobile">
                                     <div class="alpari-widget__top">
-                                        <a target="_blank" href="https://alpari-company.me/ru/invest/pamm/508050/"><img
+                                        <a target="_blank" href="https://alparicompany.info/ru/invest/pamm/508050/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpari-company.me/ru/invest/pamm/508050/banners/Banner3.svg"></a>
+                                                    src="https://alparicompany.info/ru/invest/pamm/508050/banners/Banner3.svg"></a>
                                     </div>
                                 </div>
                             </div>
