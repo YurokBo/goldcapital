@@ -263,16 +263,16 @@
                             <div class="alpari-widget">
                                 <div class="alpari-widget__desctop">
                                     <div class="alpari-widget__top">
-                                        <a target="_blank" href="https://alpari-website.net/ru/invest/pamm/519793/"><img
+                                        <!--<a target="_blank" href="https://alpari-website.net/ru/invest/pamm/519793/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpari-website.net/ru/invest/pamm/519793/banners/Banner5.svg"></a>
+                                                    src="https://alpari-website.net/ru/invest/pamm/519793/banners/Banner5.svg"></a>-->
                                     </div>
                                 </div>
                                 <div class="alpari-widget__mobile">
                                     <div class="alpari-widget__top">
-                                        <a target="_blank" href="https://alpari-website.net/ru/invest/pamm/519793/"><img
+                                        <!--<a target="_blank" href="https://alpari-website.net/ru/invest/pamm/519793/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
-                                                    src="https://alpari-website.net/ru/invest/pamm/519793/banners/Banner3.svg"></a>
+                                                    src="https://alpari-website.net/ru/invest/pamm/519793/banners/Banner3.svg"></a>-->
                                     </div>
                                 </div>
                             </div>
