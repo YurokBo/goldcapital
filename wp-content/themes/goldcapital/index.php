@@ -108,7 +108,7 @@
         <div class="row">
             <div class="col">
                 <ul class="services-list">
-                    <li class="services-list__item closeAcc">
+                    <!--<li class="services-list__item closeAcc">
                         <div class="services-list__content d-flex justify-content-between">
                             <h4 class="services-list__title">
                                 Подбор профессиональных управляющих
@@ -119,7 +119,7 @@
                         </div>
                         <div class="services-list__block">
                             <p>
-                                <?php the_field('accordion-text-1'); ?>
+                                <?php /*the_field('accordion-text-1'); */?>
                             </p>
                             <div></div>
                             <div class="alpari-widget">
@@ -157,7 +157,7 @@
                                 </div>
                             </div>
                         </div>
-                    </li>
+                    </li>-->
                     <li class="services-list__item closeAcc">
                         <div class="services-list__content d-flex justify-content-between">
                             <h4 class="services-list__title">
