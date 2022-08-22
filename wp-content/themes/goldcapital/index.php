@@ -117,12 +117,11 @@
                                 <i class="fa fa-angle-down"></i>
                             </div>
                         </div>
-                        <!--<div class="services-list__block">
+                        <div class="services-list__block">
                             <p>
-                                <?php /*the_field('accordion-text-1'); */?>
+                                <?php the_field('accordion-text-1'); ?>
                             </p>
-                            <div></div>
-                            <div class="alpari-widget">
+                            <!--<div class="alpari-widget">
                                 <div class="alpari-widget__desctop">
                                     <div class="alpari-widget__top">
                                         <h5 class="alpari-widget__top-title">
@@ -155,8 +154,8 @@
 
                                     </div>
                                 </div>
-                            </div>
-                        </div>-->
+                            </div>-->
+                        </div>
                     </li>
                     <li class="services-list__item closeAcc">
                         <div class="services-list__content d-flex justify-content-between">
@@ -171,7 +170,6 @@
                             <p>
                                 <?php the_field('accordion-text-2'); ?>
                             </p>
-
                             <a href="https://alpari-online.com/ru/school/" target="_blank"
                                rel="nofollow noopener noreferrer">Бесплатный
                                 курс трейдинга <span>по ссылке</span></a>
