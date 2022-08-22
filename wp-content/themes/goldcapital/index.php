@@ -108,7 +108,7 @@
         <div class="row">
             <div class="col">
                 <ul class="services-list">
-                    <!--<li class="services-list__item closeAcc">
+                    <li class="services-list__item closeAcc">
                         <div class="services-list__content d-flex justify-content-between">
                             <h4 class="services-list__title">
                                 Подбор профессиональных управляющих
@@ -117,7 +117,7 @@
                                 <i class="fa fa-angle-down"></i>
                             </div>
                         </div>
-                        <div class="services-list__block">
+                        <!--<div class="services-list__block">
                             <p>
                                 <?php /*the_field('accordion-text-1'); */?>
                             </p>
@@ -156,8 +156,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </li>-->
+                        </div>-->
+                    </li>
                     <li class="services-list__item closeAcc">
                         <div class="services-list__content d-flex justify-content-between">
                             <h4 class="services-list__title">
