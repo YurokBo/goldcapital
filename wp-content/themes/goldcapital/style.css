@@ -1547,13 +1547,29 @@ a.jackpot__more_link:active {
 }
 
 .alpari-widget__top {
-    margin-bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 0;
 }
 
 .alpari-widget__top-title {
     color: #212529;
     margin-bottom: 10px;
     padding: 25px 25px 0 25px;
+}
+
+a.alpari-link {
+    transition: all .3s ease-in-out;
+}
+
+a.alpari-link:not(:last-child) {
+    margin-bottom: 8px;
+}
+
+.alpari-link:hover {
+    color: #ED9E27;
+    text-decoration: underline;
 }
 
 /* ------ creation ------ */
@@ -2390,6 +2406,11 @@ a.jackpot__more_link:active {
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .alpari-link:active {
+        color: #ED9E27;
+        text-decoration: underline;
+    }
+
 }
 
 /* 768 - 992 px */
@@ -2480,10 +2501,6 @@ a.jackpot__more_link:active {
     }
 
     .alpari-widget__mobile {
-        display: block;
-    }
-
-    .alpari-widget__desctop {
         display: none;
     }
 

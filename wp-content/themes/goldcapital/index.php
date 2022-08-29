@@ -121,24 +121,38 @@
                             <p>
                                 <?php the_field('accordion-text-1'); ?>
                             </p>
-                            <!--<div class="alpari-widget">
+                            <div class="alpari-widget">
                                 <div class="alpari-widget__desctop">
                                     <div class="alpari-widget__top">
                                         <h5 class="alpari-widget__top-title">
                                             Топ Alpari
                                         </h5>
-                                        <a target="_blank" href="https://alpari-online.com/ru/invest/pamm/458733/">
+                                        <a
+                                                target="_blank"
+                                                href="https://gobymylink.com/ru/invest/pamm/458733/#pamm-return"
+                                                class="alpari-link"
+                                        >
+                                            Chance invest
+                                        </a>
+                                        <a
+                                                target="_blank"
+                                                href="https://gobymylink.com/ru/invest/pamm/505136/#pamm-return"
+                                                class="alpari-link"
+                                        >
+                                            KaratGoldGC
+                                        </a>
+                                        <!--<a target="_blank" href="https://alpari-online.com/ru/invest/pamm/458733/">
                                             <img style="width: 728px; height: 89px; border: 0;"
                                                  src="https://alpari-online.com/ru/invest/pamm/458733/banners/Banner5.svg"></a>
 
                                         <a target="_blank" href="https://alpari-online.com/ru/invest/pamm/505136/"><img
                                                     style="width: 728px; height: 89px; border: 0;"
                                                     src="https://alpari-online.com/ru/invest/pamm/505136/banners/Banner5.svg"></a>
-
+-->
 
                                     </div>
                                 </div>
-                                <div class="alpari-widget__mobile">
+                                <!--<div class="alpari-widget__mobile">
                                     <div class="alpari-widget__top">
                                         <h5 class="alpari-widget__top-title">
                                             Топ Alpari
@@ -153,8 +167,8 @@
 
 
                                     </div>
-                                </div>
-                            </div>-->
+                                </div>-->
+                            </div>
                         </div>
                     </li>
                     <li class="services-list__item closeAcc">
