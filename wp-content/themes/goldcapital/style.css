@@ -2036,8 +2036,14 @@ a.alpari-link:not(:last-child) {
 /* ------ footer------ */
 
 .footer {
-    padding: 60px 53px;
+    padding: 60px 53px 100px;
     background-color: #000000;
+}
+
+.footer p {
+    margin-top: 15px;
+    padding: 0 15px;
+    opacity: .6;
 }
 
 .footer-menu {
@@ -2504,10 +2510,6 @@ a.alpari-link:not(:last-child) {
         display: none;
     }
 
-    .footer {
-        padding: 60px 0;
-    }
-
     .analysis-replace {
         margin-top: 80px;
     }
@@ -2795,7 +2797,7 @@ a.alpari-link:not(:last-child) {
     }
 
     .footer {
-        padding: 20px 0;
+        padding: 20px 0 100px;
     }
 
     .contacts-adress {
