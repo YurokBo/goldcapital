@@ -184,7 +184,7 @@
                             <p>
                                 <?php the_field('accordion-text-2'); ?>
                             </p>
-                            <a href="https://alpari-online.com/ru/school/" target="_blank"
+                            <a href="https://gobymylink.com/ru/school/" target="_blank"
                                rel="nofollow noopener noreferrer">Бесплатный
                                 курс трейдинга <span>по ссылке</span></a>
                         </div>
@@ -274,17 +274,35 @@
                             </p>
                             <div class="alpari-widget">
                                 <div class="alpari-widget__desctop">
+<!--                                    <div class="alpari-widget__top">-->
+<!--                                        <a target="_blank" href="https://alpari-online.com/ru/invest/pamm/519793/"><img-->
+<!--                                                    style="width: 728px; height: 89px; border: 0;"-->
+<!--                                                    src="https://alpari-online.com/ru/invest/pamm/519793/banners/Banner5.svg"></a>-->
+<!--                                    </div>-->
                                     <div class="alpari-widget__top">
-                                        <!--<a target="_blank" href="https://alpari-online.com/ru/invest/pamm/519793/"><img
-                                                    style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpari-online.com/ru/invest/pamm/519793/banners/Banner5.svg"></a>-->
+                                        <a
+                                                target="_blank"
+                                                href="https://gobymylink.com/ru/invest/pamm/534089/#pamm-return"
+                                                class="alpari-link"
+                                        >
+                                            WoM 2022 GC
+                                        </a>
                                     </div>
                                 </div>
                                 <div class="alpari-widget__mobile">
-                                    <div class="alpari-widget__top">
+<!--                                    <div class="alpari-widget__top">-->
                                         <!--<a target="_blank" href="https://alpari-online.com/ru/invest/pamm/519793/"><img
                                                     style="width: 250px; height: 250px; border: 0;"
                                                     src="https://alpari-online.com/ru/invest/pamm/519793/banners/Banner3.svg"></a>-->
+<!--                                    </div>-->
+                                    <div class="alpari-widget__top">
+                                        <a
+                                                target="_blank"
+                                                href="https://gobymylink.com/ru/invest/pamm/534089/#pamm-return"
+                                                class="alpari-link"
+                                        >
+                                            WoM 2022 GC
+                                        </a>
                                     </div>
                                 </div>
                             </div>
