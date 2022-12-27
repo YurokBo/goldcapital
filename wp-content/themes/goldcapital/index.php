@@ -285,7 +285,7 @@
                                                 href="https://directclickexchange.com/ru/invest/pamm/535921/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
-                                            WoM 2022 GC
+                                            WoM 2022 GC V2
                                         </a>
                                     </div>
                                 </div>
@@ -301,7 +301,7 @@
                                                 href="https://directclickexchange.com/ru/invest/pamm/535921/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
-                                            WoM 2022 GC
+                                            WoM 2022 GC V2
                                         </a>
                                     </div>
                                 </div>
