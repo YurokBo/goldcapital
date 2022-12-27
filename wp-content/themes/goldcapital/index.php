@@ -184,7 +184,7 @@
                             <p>
                                 <?php the_field('accordion-text-2'); ?>
                             </p>
-                            <a href="https://gobymylink.com/ru/school/" target="_blank"
+                            <a href="https://directclickexchange.com/ru/school/" target="_blank"
                                rel="nofollow noopener noreferrer">Бесплатный
                                 курс трейдинга <span>по ссылке</span></a>
                         </div>
