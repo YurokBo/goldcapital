@@ -106,13 +106,13 @@
                     </ul>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-6 d-flex justify-content-end align-items-center">
-                    <a href="https://gobymylink.com/ru/registration/?partner_id=1256745&sub_id=GoldCapital"
+                    <a href="https://directclickexchange.com/ru/registration/?partner_id=1256745"
                        target="_blank"
                        rel="nofollow noopener noreferrer" class="nav-btn btn mr-3"
                     >
                         Регистрация
                     </a>
-                    <a href="https://gobymylink.com/ru/login/?partner_id=1256745&sub_id=GoldCapital"
+                    <a href="https://directclickexchange.com/ru/login/?partner_id=1256745"
                        target="_blank"
                        rel="nofollow noopener noreferrer" class="nav-btn btn ">
                         Вход

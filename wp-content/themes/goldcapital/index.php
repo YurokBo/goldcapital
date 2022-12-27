@@ -129,14 +129,14 @@
                                         </h5>
                                         <a
                                                 target="_blank"
-                                                href="https://gobymylink.com/ru/invest/pamm/458733/#pamm-return"
+                                                href="https://directclickexchange.com/ru/invest/pamm/458733/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
                                             Chance invest
                                         </a>
                                         <a
                                                 target="_blank"
-                                                href="https://gobymylink.com/ru/invest/pamm/505136/#pamm-return"
+                                                href="https://directclickexchange.com/ru/invest/pamm/505136/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
                                             KaratGoldGC
@@ -282,7 +282,7 @@
                                     <div class="alpari-widget__top">
                                         <a
                                                 target="_blank"
-                                                href="https://gobymylink.com/ru/invest/pamm/534089/#pamm-return"
+                                                href="https://directclickexchange.com/ru/invest/pamm/535921/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
                                             WoM 2022 GC
@@ -298,7 +298,7 @@
                                     <div class="alpari-widget__top">
                                         <a
                                                 target="_blank"
-                                                href="https://gobymylink.com/ru/invest/pamm/534089/#pamm-return"
+                                                href="https://directclickexchange.com/ru/invest/pamm/535921/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
                                             WoM 2022 GC
