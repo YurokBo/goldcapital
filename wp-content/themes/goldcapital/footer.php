@@ -239,11 +239,11 @@
                     </div>
                 </li>
             </div>
-            <a href="https://directclickexchange.com/ru/registration/?partner_id=1256745" target="_blank"
+            <a href="https://myreg.click/ru/registration/?partner_id=1256745" target="_blank"
                rel="nofollow noopener noreferrer" class="nav-btn menu-collapse-btn btn ">
                 Регистрация
             </a>
-            <a href="https://directclickexchange.com/ru/login/?partner_id=1256745" target="_blank"
+            <a href="https://myreg.click/ru/login/?partner_id=1256745" target="_blank"
                rel="nofollow noopener noreferrer" class="nav-btn menu-collapse-btn btn ">
                 Вход
             </a>

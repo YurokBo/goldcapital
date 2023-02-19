@@ -129,27 +129,18 @@
                                         </h5>
                                         <a
                                                 target="_blank"
-                                                href="https://directclickexchange.com/ru/invest/pamm/458733/#pamm-return?partner_id=1256745"
+                                                href="https://myreg.click/ru/invest/pamm/458733/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
                                             Chance invest
                                         </a>
                                         <a
                                                 target="_blank"
-                                                href="https://directclickexchange.com/ru/invest/pamm/505136/#pamm-return?partner_id=1256745"
+                                                href="https://myreg.click/ru/invest/pamm/505136/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
                                             KaratGoldGC
                                         </a>
-                                        <!--<a target="_blank" href="https://alpari-online.com/ru/invest/pamm/458733/">
-                                            <img style="width: 728px; height: 89px; border: 0;"
-                                                 src="https://alpari-online.com/ru/invest/pamm/458733/banners/Banner5.svg"></a>
-
-                                        <a target="_blank" href="https://alpari-online.com/ru/invest/pamm/505136/"><img
-                                                    style="width: 728px; height: 89px; border: 0;"
-                                                    src="https://alpari-online.com/ru/invest/pamm/505136/banners/Banner5.svg"></a>
--->
-
                                     </div>
                                 </div>
                                 <!--<div class="alpari-widget__mobile">
@@ -184,7 +175,7 @@
                             <p>
                                 <?php the_field('accordion-text-2'); ?>
                             </p>
-                            <a href="https://directclickexchange.com/ru/school/" target="_blank"
+                            <a href="https://myreg.click/ru/school/" target="_blank"
                                rel="nofollow noopener noreferrer">Бесплатный
                                 курс трейдинга <span>по ссылке</span></a>
                         </div>
@@ -280,13 +271,13 @@
 <!--                                                    src="https://alpari-online.com/ru/invest/pamm/519793/banners/Banner5.svg"></a>-->
 <!--                                    </div>-->
                                     <div class="alpari-widget__top">
-                                        <a
+                                        <!--<a
                                                 target="_blank"
-                                                href="https://directclickexchange.com/ru/invest/pamm/535921/#pamm-return?partner_id=1256745"
+                                                href="https://myreg.click/ru/invest/pamm/535921/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
                                             WoM 2022 GC V2
-                                        </a>
+                                        </a>-->
                                     </div>
                                 </div>
                                 <div class="alpari-widget__mobile">
@@ -296,13 +287,13 @@
                                                     src="https://alpari-online.com/ru/invest/pamm/519793/banners/Banner3.svg"></a>-->
 <!--                                    </div>-->
                                     <div class="alpari-widget__top">
-                                        <a
+                                        <!--<a
                                                 target="_blank"
-                                                href="https://directclickexchange.com/ru/invest/pamm/535921/#pamm-return?partner_id=1256745"
+                                                href="https://myreg.click/ru/invest/pamm/535921/#pamm-return?partner_id=1256745"
                                                 class="alpari-link"
                                         >
                                             WoM 2022 GC V2
-                                        </a>
+                                        </a>-->
                                     </div>
                                 </div>
                             </div>
