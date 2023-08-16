@@ -134,13 +134,6 @@
                                         >
                                             Chance invest
                                         </a>
-                                        <a
-                                                target="_blank"
-                                                href="https://myreg.click/ru/invest/pamm/505136/#pamm-return?partner_id=1256745"
-                                                class="alpari-link"
-                                        >
-                                            KaratGoldGC
-                                        </a>
                                     </div>
                                 </div>
                                 <!--<div class="alpari-widget__mobile">
