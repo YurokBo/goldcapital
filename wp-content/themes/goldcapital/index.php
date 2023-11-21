@@ -159,13 +159,6 @@
                     >
                       Mary Trade
                     </a>
-                    <a
-                      target="_blank"
-                      href="https://myreg.click/ru/invest/pamm/555624/#pamm-return?partner_id=1256745"
-                      class="alpari-link"
-                    >
-                      Gold Capital 23
-                    </a>
                   </div>
                 </div>
                 <!--<div class="alpari-widget__mobile">
@@ -295,6 +288,13 @@
                   <?php the_field('accordion-text-4'); ?>
               </p>
               <div class="alpari-widget">
+                <a
+                  target="_blank"
+                  href="https://myreg.click/ru/invest/pamm/555624/#pamm-return?partner_id=1256745"
+                  class="alpari-link"
+                >
+                  Gold Capital 23
+                </a>
                 <div class="alpari-widget__desctop">
                   <!--                                    <div class="alpari-widget__top">-->
                   <!--                                        <a target="_blank" href="https://alpari-online.com/ru/invest/pamm/519793/"><img-->
