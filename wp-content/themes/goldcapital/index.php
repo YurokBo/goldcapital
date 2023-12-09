@@ -293,7 +293,7 @@
                   href="https://myreg.click/ru/invest/pamm/555624/#pamm-return?partner_id=1256745"
                   class="alpari-link"
                 >
-                  Gold Capital 23
+                  Gold Capital 23v2
                 </a>
                 <div class="alpari-widget__desctop">
                   <!--                                    <div class="alpari-widget__top">-->
