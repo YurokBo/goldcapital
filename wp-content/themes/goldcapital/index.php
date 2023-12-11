@@ -290,7 +290,7 @@
               <div class="alpari-widget">
                 <a
                   target="_blank"
-                  href="https://myreg.click/ru/invest/pamm/555624/#pamm-return?partner_id=1256745"
+                  href="https://myreg.click/ru/invest/pamm/556501/#pamm-return?partner_id=1256745"
                   class="alpari-link"
                 >
                   Gold Capital 23v2
