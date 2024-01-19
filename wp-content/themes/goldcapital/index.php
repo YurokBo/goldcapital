@@ -159,6 +159,48 @@
                     >
                       Mary Trade
                     </a>
+                    <a
+                      target="_blank"
+                      href="https://myreg.click/ru/invest/pamm/558004/#pamm-return?partner_id=1256745"
+                      class="alpari-link"
+                    >
+                      PRIME CAPITAL PRO
+                    </a>
+                    <a
+                      target="_blank"
+                      href="https://myreg.click/ru/invest/pamm/557986/#pamm-return?partner_id=1256745"
+                      class="alpari-link"
+                    >
+                      WIN STAR
+                    </a>
+                    <a
+                      target="_blank"
+                      href="https://myreg.click/ru/invest/pamm/557987/#pamm-return?partner_id=1256745"
+                      class="alpari-link"
+                    >
+                      SMART TOM
+                    </a>
+                    <a
+                      target="_blank"
+                      href="https://myreg.click/ru/invest/pamm/557988/#pamm-return?partner_id=1256745"
+                      class="alpari-link"
+                    >
+                      TRADE LAB
+                    </a>
+                    <a
+                      target="_blank"
+                      href="https://myreg.click/ru/invest/pamm/557990/#pamm-return?partner_id=1256745"
+                      class="alpari-link"
+                    >
+                      LUCKYFISH TR-PRO
+                    </a>
+                    <a
+                      target="_blank"
+                      href="https://myreg.click/ru/invest/pamm/557984/#pamm-return?partner_id=1256745"
+                      class="alpari-link"
+                    >
+                      TOP SOLUTION
+                    </a>
                   </div>
                 </div>
                 <!--<div class="alpari-widget__mobile">
