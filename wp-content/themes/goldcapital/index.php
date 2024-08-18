@@ -147,13 +147,6 @@
                     </a>
                     <a
                       target="_blank"
-                      href="https://myreg.click/ru/invest/pamm/558204/#pamm-return?partner_id=1256745"
-                      class="alpari-link"
-                    >
-                      G O O D W I N
-                    </a>
-                    <a
-                      target="_blank"
                       href="https://myreg.click/ru/invest/pamm/555094/#pamm-return?partner_id=1256745"
                       class="alpari-link"
                     >
