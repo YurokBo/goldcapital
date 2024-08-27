@@ -152,13 +152,6 @@
                     >
                       Mary Trade
                     </a>
-                    <a
-                      target="_blank"
-                      href="https://myreg.click/ru/invest/pamm/557984/#pamm-return?partner_id=1256745"
-                      class="alpari-link"
-                    >
-                      TOP SOLUTION
-                    </a>
                   </div>
                 </div>
                 <!--<div class="alpari-widget__mobile">
