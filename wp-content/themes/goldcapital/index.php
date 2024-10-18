@@ -138,20 +138,6 @@
                     >
                       Chance invest
                     </a>
-                    <a
-                      target="_blank"
-                      href="https://myreg.click/ru/invest/pamm/554660/#pamm-return?partner_id=1256745"
-                      class="alpari-link"
-                    >
-                      SunUp
-                    </a>
-                    <a
-                      target="_blank"
-                      href="https://myreg.click/ru/invest/pamm/555094/#pamm-return?partner_id=1256745"
-                      class="alpari-link"
-                    >
-                      Mary Trade
-                    </a>
                   </div>
                 </div>
                 <!--<div class="alpari-widget__mobile">
